@@ -1,5 +1,7 @@
 # SmartToken
 
+![Banner](https://github.com/Smart-Token-Digital-Assets/.github/raw/main/profile/banner.png)
+
 SmartToken uma platafroma de ativos alternativos.
 
 Através da tecnologia do blockchain conectamos empresas REAIS com investidores reais.
